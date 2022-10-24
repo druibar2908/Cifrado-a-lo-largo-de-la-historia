@@ -1,3 +1,3 @@
 
 
-![enigma](.md/imagenes/enigma.jpg)
+![enigma](/.md/imagenes/enigma.jpg)
