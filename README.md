@@ -14,5 +14,5 @@
 
 ### Licencia
 
-![Licencia](imagenes2/licencia.png)
+![Licencia](imagenes/licencia.png)
 
