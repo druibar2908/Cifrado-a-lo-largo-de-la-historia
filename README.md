@@ -7,7 +7,6 @@
 ### Contenido
 
 [cifrado](.md/cifrado.md)
-
 [enigma](.md/enigma.md)
 
 ### Referencias
