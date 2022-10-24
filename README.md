@@ -6,11 +6,13 @@
 
 ### Contenido
 
-[cifrado](.md/cifrado.md)
+[ Cifrado de sustitución polialfabética](.md/cifrado.md)
 
-[enigma](.md/enigma.md)
+[Código Enigma](.md/enigma.md)
 
 ### Referencias
+
+https://es.education-wiki.com/5583122-types-of-cipher
 
 
 
