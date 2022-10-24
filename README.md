@@ -10,7 +10,7 @@
 
 ### Referencias
 
-https://www.wikipedia.org/
+
 
 ### Licencia
 
