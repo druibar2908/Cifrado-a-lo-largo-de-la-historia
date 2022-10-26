@@ -13,6 +13,7 @@
 ### Referencias
 
 https://es.education-wiki.com/5583122-types-of-cipher
+https://www.elespanol.com/omicrono/20190318/prueba-maquina-enigma-famosa-cifrado-nazi-versiones/384212802_0.html
 
 
 
